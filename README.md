@@ -10,10 +10,10 @@ Download the code and open the index.html file in your browser. Alternatively yo
 ### Step 2:
 Once you're able see the web page. You can finally settle the battle with your friends or family about who gets the last slice of pizza. Decide a player 1 and player 2.
 ### Step 3: 
-Click on refresh in your browser. Now the code will run a roll for each dice. The player with the highest roll will win and be displayed on the web page.
+Click on refresh in your browser. Now the code will run a roll for each dice. The player with the highest roll will win and be displayed on the web page like so:
 
 [![](https://i.ibb.co/yPT9sLr/dice-game.png)](#)
 
-Congrats if you won the last slice of pizza!
+Congrats if you won the last slice of pizza! If not... maybe let's go for a rematch? 😂
 
 Thanks for checking out my project and take care!
