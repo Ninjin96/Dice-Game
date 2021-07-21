@@ -44,9 +44,9 @@ switch(randomNumber2) {
         break;
 }
 
-if (randomNumber1 == randomNumber2)
-    document.getElementsByTagName("h1")[0].innerHTML = "❌ Draw! ❌";
-else if (randomNumber1 > randomNumber2)
+if (randomNumber1 > randomNumber2)
     document.getElementsByTagName("h1")[0].innerHTML = "🎉 Player 1 Wins!";
-else
+else if (randomNumber1 < randomNumber2)
     document.getElementsByTagName("h1")[0].innerHTML = "Player 2 Wins! 🎉";
+else
+    document.getElementsByTagName("h1")[0].innerHTML = "❌ Draw! ❌";
